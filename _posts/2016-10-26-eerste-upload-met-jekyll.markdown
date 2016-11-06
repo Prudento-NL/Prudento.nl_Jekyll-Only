@@ -2,7 +2,7 @@
 layout: post
 title:  "De eerste Jekyll gegenereerde website!"
 date:   2016-10-26 18:48:09 +0200
-categories: jekyll
+categories: website
 ---
 De eerste upload van de site met gebruikmaking van [Jekyll] is een feit.
 [Jekyll] is een open source, blog-aware, statische website generator geschreven in [Ruby]. Websites worden gegenereerd uit tekstfiles van verschillende formaten.
