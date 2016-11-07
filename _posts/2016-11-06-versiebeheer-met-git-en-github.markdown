@@ -33,4 +33,4 @@ Hieronder een aantal nuttige locaties voor het leren van de basis van [Git] en [
 [Nederlandse versie]: http://rogerdudler.github.io/git-guide/index.nl.html
 [Git cheat sheet - Nina Jaeschke]: http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 [Git data flow - Wikimedia Commons]: https://commons.wikimedia.org/wiki/File:Git_data_flow.png
-[GitHub Guide]: [https://guides.github.com/activities/hello-world/#intro]
+[GitHub Guide]: https://guides.github.com/activities/hello-world/#intro
