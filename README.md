@@ -1,1 +1,1 @@
-This is the version control part for the website www.prudento.nl
+This is used for expertimenting with Jekyll for the website www.prudento.nl.
