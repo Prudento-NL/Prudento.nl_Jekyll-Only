@@ -1,7 +1,7 @@
 ---
-layout: "post"
-title: "Synchroniseren files met atom-sync"
-date: "2016-11-20 13:15"
+layout: post
+title: Synchroniseren files met atom-sync
+date: 2016-11-20 13:15
 categories: website
 ---
 Ik gebruik [Atom] al een tijdje als text editor. Het is een ontwikkeling van [GitHub] dus ook weer goed geïntegreerd met [Git], [GitHub] en [Jekyll].

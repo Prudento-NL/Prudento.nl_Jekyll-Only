@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "De eerste Jekyll gegenereerde website!"
-date:   2016-10-26 18:48:09 +0200
+title:  De eerste Jekyll gegenereerde website!
+date:   2016-10-26 18:48:09
 categories: website
 ---
 De eerste upload van de site met gebruikmaking van [Jekyll] is een feit.

@@ -1,7 +1,7 @@
 ---
-layout: "post"
-title: "Versiebeheer met Git en GitHub"
-date: "2016-11-06 18:45"
+layout: post
+title: Versiebeheer met Git en GitHub
+date: 2016-11-06 18:45
 categories: website
 ---
 De afgelopen tijd een uitgebreide kennismaking met versie beheer met [Git] en [GitHub]. Uitgebreide informatie is op internet te vinden.
