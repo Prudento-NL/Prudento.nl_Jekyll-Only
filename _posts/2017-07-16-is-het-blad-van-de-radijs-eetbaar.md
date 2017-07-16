@@ -11,7 +11,7 @@ Je stopt het niet zomaar in je mond, want je weet maar nooit. Bovendien prikken 
   Eerst maar even googlen. Wat blijkt?  
    **Natuurlijk kan je het eten.**   
 
-Direct een blaadje gewassen en gegeten. Het is een beetje een aparte structuur, anders dan je zou verwachten. De smaak is een klein beetje pittig. Van de prikkende blaadjes merk je niets in je mond
+Direct een blaadje gewassen en gegeten. Het is een beetje een aparte structuur, anders dan je zou verwachten. De smaak is een klein beetje pittig. Van de prikkende blaadjes merk je niets in je mond.
 
 Op internet vindt je allerlei recepten zoals soep en pesto.
 Je kan het prima door salade mixen of door de stamppot en er wordt zelfs geopperd om het in een smoothie te gebruiken.
