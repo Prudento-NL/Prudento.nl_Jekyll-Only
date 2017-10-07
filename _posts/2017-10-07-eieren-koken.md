@@ -12,7 +12,7 @@ Ikzelf kook de eieren altijd in een klein laagje water.
 De eieren direct in het koude water leggen, deksel op de pan en aan de kook brengen.
 Afhankelijk van de grootte van de eieren en hard of zacht gekookt is de kooktijd tussen 6 en 8 minuten.
 
-Nu zag ik laatst op [24Kitchen] het kookprogramma Simply Nigella van [Nigella Lawson] waarin zij een [Egg And Bacon Salad] maakte. Voor de eieren gebruikte ze een andere manier van eieren koken dan dat ik tot nu toe kende.
+Nu zag ik laatst op [24Kitchen] het kookprogramma Nigella Kitchen van [Nigella Lawson] waarin zij een [Egg And Bacon Salad] maakte. Voor de eieren gebruikte ze een andere manier van eieren koken dan dat ik tot nu toe kende.
 
 Nigella deed het volgende:
 * Eieren in een pannetje met koud water leggen.
