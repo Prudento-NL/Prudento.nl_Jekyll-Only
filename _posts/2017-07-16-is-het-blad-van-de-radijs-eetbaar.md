@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is het blad van de radijs eetbaar?
-date: '2017-07-16 12:52'
+date: 2017-07-16
 categories: voedsel_algemeen
 ---
 
