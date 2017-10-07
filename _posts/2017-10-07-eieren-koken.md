@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eieren koken, maar dan anders
-date: '2017-10-07'
+date: 2017-10-07
 categories: voedsel_algemeen
 ---
 
