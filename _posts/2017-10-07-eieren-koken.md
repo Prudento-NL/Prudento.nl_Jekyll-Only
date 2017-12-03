@@ -15,7 +15,7 @@ Afhankelijk van de grootte van de eieren en hard of zacht gekookt is de kooktijd
 Nu zag ik laatst op [24Kitchen] het kookprogramma Nigella Kitchen van [Nigella Lawson] waarin zij een [Egg And Bacon Salad] maakte. Voor de eieren gebruikte ze een andere manier van eieren koken dan dat ik tot nu toe kende.
 
 Nigella deed het volgende:
-* Eieren in een pannetje met koud water leggen.
+* Eieren in een pannetje met koud water leggen. De eieren moeten volledig onder het water liggen.
 * Aan de kook brengen.
 * 1 minuut laten koken.
 * De pan van het vuur halen.
