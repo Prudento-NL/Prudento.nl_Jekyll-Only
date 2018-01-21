@@ -4,6 +4,11 @@ title:  Synchroniseren files met atom-sync
 date:   2016-11-20 13:15
 categories: website
 ---
+
+===== 21-01-2018 UPDATE ===== <br>
+Atom-sync werkt niet meer zoals verwacht. Sync is niet meer aanwezig in het context-menu. Dit is een gevolg van een update van Atom. Dit is te repareren door directories aan te passen, maar daarna werkte de config file creatie nog niet. De package lijkt niet onderhouden te worden, dus verwijderd en overgestapt op de package remote-ftp. <br>
+============================<br>
+
 Ik gebruik [Atom] al een tijdje als text editor. Het is een ontwikkeling van [GitHub] dus ook weer goed geïntegreerd met [Git], [GitHub] en [Jekyll].
 [Atom] kan op meerdere platforms gebruikt worden en is volledig in te richten naar je eigen smaak.
 Er zijn packages beschikbaar die extra functionaliteit kunnen bieden.
