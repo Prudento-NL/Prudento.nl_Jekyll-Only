@@ -1,6 +1,6 @@
 ## 17-10-2021 UPDATE  
 - BIZ.NF bestaat net meer.
-- De site hosted via GitHub heeft niet de juiste layout meer (theme-issue??). Offline gehaals.
+- De site hosted via GitHub heeft niet de juiste layout meer (theme-issue??). Offline gehaald.
 - Clonen van de site en serven vanaf de locale PC werkt wel goed.
 
 ## Vervolg.
